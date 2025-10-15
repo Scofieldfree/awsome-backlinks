@@ -72,6 +72,7 @@
 | [BetaPage](https://betapage.co/) | launch | product | mixed | open | free/paid | startup | en,global | 目录型曝光，质量参差 | 2025-10-15 |
 | [Launching Next](https://launchingnext.com/submit/) | launch | product | mixed | editor-review | free | startup | en,global | 偶尔更新慢 | 2025-10-15 |
 | [AlternativeTo（建议投文章/指南）](https://alternativeto.net/) | launch | product,article | mixed | editor-review | free | general | en,global | 填写详尽对比信息更易通过 | 2025-10-15 |
+| [Launch Vault](https://www.launchvault.dev/) | launch | product | mixed | editor-review | free | startup,indie | en,global | Product Hunt 替代品，高质量外链 | 2025-10-15 |
 
 ### Dev / 开发者向
 | name | category | accepts | backlink_policy | submission | fee | audience | region_lang | notes | last_checked |
